@@ -5,7 +5,7 @@ I am a .NET developer, working on:
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartlomiejstrzebonski)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartlomiejstrzebonski&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Find me here
 

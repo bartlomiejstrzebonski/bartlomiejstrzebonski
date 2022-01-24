@@ -3,10 +3,6 @@ I am a .NET developer, working on:
 - ⚡ Creating dedicated modules for ERP systems
 - 🌱 Building Mobile Apps using Xamarin
 
----
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartlomiejstrzebonski&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Find me here
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bart%C5%82omiej-strzebo%C5%84ski/)

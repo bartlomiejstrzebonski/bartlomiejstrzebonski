@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hello there ⭐🧔⚔️
 I am a .NET developer, working on:
 - ⚡ Creating dedicated modules for ERP systems
 - 🌱 Building Mobile Apps using Xamarin
+
+## languages and tools
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Find me here
 

@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-I am a .NET developer, working on:
+I'm a .NET developer, working on:
 - ⚡ Creating dedicated modules for ERP systems
 - 🌱 Building Mobile Apps using Xamarin
 

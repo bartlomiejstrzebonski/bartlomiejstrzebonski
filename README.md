@@ -4,8 +4,7 @@ I am a .NET developer, working on:
 - 🌱 Building Mobile Apps using Xamarin
 
 ## languages and tools
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bartlomiejstrzebonski)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartlomiejstrzebonski)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Find me here
 
